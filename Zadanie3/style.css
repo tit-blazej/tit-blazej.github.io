@@ -1,0 +1,107 @@
+body{
+font-family:Arial,sans-serif;
+}
+#cale{
+	width:1200px;
+	margin-top:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	margin-left:auto;
+}
+#jeden{
+	width:597px;
+	text-align:center;
+	float:left;
+	font-size:50px;
+	color:#039BE5;
+	background-color:#CFD8DC;
+	border-top:2px solid black;
+	border-right:1px solid black;
+	border-bottom:2px solid black;
+	border-left:2px solid black;
+}
+#czas{
+width:597px;
+text-align:center;
+float:left;
+font-size:50px;
+background-color:#DCDCDC;
+border-top:2px solid black;
+border-right:2px solid black;
+border-bottom:2px solid black;
+border-left:1px solid black;
+}
+#dwa{
+width:397px;
+text-align:center;
+float:left;
+font-size:50px;
+color:#1F1F1F;
+background-color:#F5CCB0;
+border-top:1px solid black;
+border-right:1px solid black;
+border-bottom:1px solid black;
+border-left:2px solid black;
+}
+
+#trzy{
+width:398px;
+text-align:center;
+float:left;
+font-size:50px;
+color:#1F1F1F;
+background-color:#C0C0C0;
+border-top:1px solid black;
+border-right:1px solid black;
+border-bottom:1px solid black;
+border-left:1px solid black;
+}
+
+#cztery{
+width:397px;
+text-align:center;
+float:left;
+font-size:50px;
+color:#1F1F1F;
+background-color:#C5E1A5;
+border-top:1px solid black;
+border-right:2px solid black;
+border-bottom:1px solid black;
+border-left:1px solid black;
+}
+
+#wakacje{
+width:397px;
+text-align:center;
+float:left;
+font-size:50px;
+background-color:#D19275;
+border-top:1px solid black;
+border-right:1px solid black;
+border-bottom:2px solid black;
+border-left:2px solid black;
+}
+#egzamin{
+width:398px;
+text-align:center;
+float:left;
+font-size:50px;
+background-color:#4C4C4C;
+border-top:1px solid black;
+border-right:1px solid black;
+border-bottom:2px solid black;
+border-left:1px solid black;
+}
+
+#szkola{
+width:397px;
+text-align:center;
+float:left;
+font-size:50px;
+background-color:#33691E;
+border-top:1px solid black;
+border-right:2px solid black;
+border-bottom:2px solid black;
+border-left:1px solid black;
+}
+
