@@ -1,0 +1,25 @@
+body{
+    background-image: url(tlo.png);
+}
+#cale{
+	width:1360px;
+}
+#tytul{
+	text-align:center;
+	font-family:OCR A Std, monospace;
+	font-size:50px;
+	background-color:#6666CC;
+}
+.num{
+	text-align:center;
+	margin-top:25px;
+	margin-right:25px;
+	margin-bottom:25px;
+	margin-left:25px;
+	height:400px;
+	width:400px;
+    float:left;
+}
+
+
+
