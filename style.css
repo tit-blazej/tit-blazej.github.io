@@ -1,24 +1,64 @@
 body{
     background-image: url(tlo.png);
+	font-family:OCR A Std, monospace;
 }
 #cale{
 	width:1360px;
 }
-#tytul{
-	text-align:center;
+#zegar{
 	font-family:OCR A Std, monospace;
-	font-size:50px;
-	background-color:#6666CC;
+	margin-left:10px;
+	font-size:25px;
+	width:90px;
+	float:left;
 }
-.num{
+#tytul{
+	font-family:OCR A Std, monospace;
+	background-image: url(tlo-tyt.jpg);
+    height:150px;
+}
+#tytul1{
+	font-size:80px;
+	width:900px;
+}
+.odn{
+	
+	height:70px;
+	width:70px;
+	margin-right:20px;
+	margin-bottom:auto;
+	float:right;
+}
+#ja{
+	height:100px;
+	width:100px;
+	float:right;
+	margin-top:10px;
+	margin-right:10px;
+}
+
+.zad{
+	height:500px;
+	width:500px;
 	text-align:center;
-	margin-top:25px;
-	margin-right:25px;
-	margin-bottom:25px;
-	margin-left:25px;
+
+}
+
+#zadhj{
+	height:60px;
+	width:500px;
+	background-image: url(tlo-tyt.jpg);
+	
+}
+
+#zadob{
 	height:400px;
 	width:400px;
-    float:left;
+	margin-top:10px;
+}
+
+#zadh{	
+	font-size:50px;
 }
 
 
