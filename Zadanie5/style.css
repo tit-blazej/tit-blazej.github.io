@@ -9,6 +9,9 @@ body{
 	background-image:url('4.jpg'),url('4.jpg'),url('4.jpg');
 	animation:ruch 300s linear infinite alternate;
 }
+audio{
+margin-left:500px;
+}
 
 #glowny{
 
