@@ -1,6 +1,13 @@
+@keyframes ruch
+{
+  0% { background-position:0 0, 0 0, 0 0; }
+  100% { background-position:10000px 0, 7500px 0, 5000px 0; }
+}
+
 body{
-    background-image: url(tlo.png);
-	font-family:OCR A Std, monospace;
+    background-image: url(tlo.png),url(tlo.png),url(tlo.png);
+    font-family:OCR A Std, monospace;
+    animation:ruch 300s linear infinite alternate;
 }
 #cale{
 	width:1360px;
