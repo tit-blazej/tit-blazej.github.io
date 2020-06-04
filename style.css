@@ -5,9 +5,8 @@
 }
 
 body{
-    background-image: url(tlo.png),url(tlo.png),url(tlo.png);
+    background-image: url(tlo.png);
     font-family:OCR A Std, monospace;
-    animation:ruch 300s linear infinite alternate;
 }
 #cale{
 	width:1360px;
@@ -23,7 +22,8 @@ body{
 }
 #tytul{
 	font-family:OCR A Std, monospace;
-	background-image: url(tlo-tyt.jpg);
+	background-image: url(tlo-tyt.jpg),url(tlo-tyt.jpg),url(tlo-tyt.jpg);
+	animation:ruch 300s linear infinite alternate;
     height:150px;
 }
 #tytul1{
@@ -69,7 +69,8 @@ body{
 #zadhj{
 	height:50px;
 	width:400px;
-	background-image: url(tlo-tyt.jpg);
+	background-image: url(tlo-tyt.jpg),url(tlo-tyt.jpg),url(tlo-tyt.jpg);
+	animation:ruch 300s linear infinite alternate;
 	
 }
 
