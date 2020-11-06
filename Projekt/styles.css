@@ -1,0 +1,47 @@
+.container{
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translae(-50%, -50%);
+	width: 40px;
+	height: 32px;
+	cursor: pointer;
+}
+
+.stick, .stick:before, stick:after{
+	width: 40px;
+	height: 5px;
+	background: black;
+	top: 50%;
+	position: absolute;
+	transition: all 0.6s;
+	border-radius: 5px;
+}
+
+.stick:before{
+	content: '';
+	top: -16px;
+	left: 0px;
+}
+
+.stick:after{
+	content: '';
+	top: -16px;
+	left: 0px;
+}
+
+.stick.open{
+	transform: translateX(-50px);
+	background: transparent;
+}
+
+.stick.open:after{
+	transform: rotate(-45deg) translate(50px, 28px);
+	
+}
+
+.stick.open:before{
+	transform: rotate(45deg) translate(50px, -28px);
+}
+
