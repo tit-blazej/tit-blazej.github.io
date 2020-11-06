@@ -92,6 +92,7 @@ body{
 	text-align:center;
 	margin-top:50px;
     margin-left:20px;
+	float: left;
 }
 
 #projhj{
@@ -103,8 +104,8 @@ body{
 }
 
 #projob{
-	height:300px;
-	width:300px;
+	height:250px;
+	width:250px;
 	margin-top:10px;
 }
 
