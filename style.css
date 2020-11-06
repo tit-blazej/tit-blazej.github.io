@@ -84,3 +84,30 @@ body{
 #zadh{	
 	font-size:40px;
 }
+
+
+.proj{
+	height:400px;
+	width:400px;
+	text-align:center;
+	margin-top:50px;
+    margin-left:20px;
+}
+
+#projhj{
+	height:50px;
+	width:400px;
+	background-image: url(tlo-tyt.jpg),url(tlo-tyt.jpg),url(tlo-tyt.jpg);
+	animation:ruch 300s linear infinite alternate;
+	
+}
+
+#projob{
+	height:300px;
+	width:300px;
+	margin-top:10px;
+}
+
+#projh{	
+	font-size:40px;
+}
